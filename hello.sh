@@ -1,3 +1,2 @@
 cal
 date
-cd Documents
